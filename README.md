@@ -1,7 +1,6 @@
 # Lenovo-Hackintosh
 macOS Catalina on Lenovo lap top from 2017 and later
 
-<h2>Info</h2>
 
 <h3>Tested on configuration</h3> 
 
